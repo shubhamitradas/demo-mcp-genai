@@ -1,1 +1,25 @@
-IyBkZW1vLW1jcC1nZW5haQoKPiB0aGlzIGlzIGZvciBkZW1vCgpEZW1vIEdlbiBBSSBwcm9qZWN0IHNob3djYXNpbmcgTUNQIGFuZCBMTE0gaW50ZWdyYXRpb24gcGF0dGVybnMuCgojIyBQcm9qZWN0IFN0cnVjdHVyZQoKYGBgCmRlbW8tbWNwLWdlbmFpLwrii5wiuuKUgOKUgCBzcmMvICAgICAgICAgICMgQXBwbGljYXRpb24gc291cmNlIGNvZGUK4pSc4pSA4pSAIGRhdGEvCuKUgiAgIOKUnOKUgOKUgCByYXcvICAgICAgICAjIE9yaWdpbmFsLCBpbW11dGFibGUgZGF0YQrilIIgICDilJTilIDilIAgcHJvY2Vzc2VkLyAgIyBDbGVhbmVkIGFuZCB0cmFuc2Zvcm1lZCBkYXRhCuKUnOKUgOKUgCBub3RlYm9va3MvICAgICAgIyBKdXB5dGVyIG5vdGVib29rcyBmb3IgZXhwbG9yYXRpb24K4pSc4pSA4pSAIG1vZGVscy8gICAgICAgICAjIFRyYWluZWQgLyBleHBvcnRlZCBtb2RlbCBhcnRpZmFjdHMK4pSc4pSA4pSAIHRlc3RzLyAgICAgICAgICAjIFVuaXQgYW5kIGludGVncmF0aW9uIHRlc3RzCuKUlOKUgOKUgCBkb2NzLyAgICAgICAgICAgIyBQcm9qZWN0IGRvY3VtZW50YXRpb24KYGBgCgojIyBHZXR0aW5nIFN0YXJ0ZWQKCmBgYGJhc2gKcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dApgYGAK
+# demo-mcp-genai
+
+> this is for demo
+
+Demo Gen AI project showcasing MCP and LLM integration patterns.
+
+## Project Structure
+
+```
+demo-mcp-genai/
+├── src/            # Application source code
+├── data/
+│   ├── raw/        # Original, immutable data
+│   └── processed/  # Cleaned and transformed data
+├── notebooks/      # Jupyter notebooks for exploration
+├── models/         # Trained / exported model artifacts
+├── tests/          # Unit and integration tests
+└── docs/           # Project documentation
+```
+
+## Getting Started
+
+```bash
+pip install -r requirements.txt
+```
